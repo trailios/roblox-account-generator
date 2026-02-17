@@ -5,4 +5,4 @@
 What else i needa explain.
 
 
-10 stars i make a checker on mobile aswell. (doesnt always get funcaptcha; And roblox doesnt check the playstore attestation :sob:)
+10 stars i make a checker on mobile aswell. (doesnt always get funcaptcha; And roblox doesnt check the playstore integrety shit :sob:)
